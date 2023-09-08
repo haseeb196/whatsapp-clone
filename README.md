@@ -1,4 +1,4 @@
-![alt text](https://whatsapp-mern-56d98.web.app/whatsapp-logo.png)
+![alt text](https://github.com/haseeb196/whatsapp-clone/blob/master/public/whatsapp-logo.png)
 # Linkedin Clone Project
 
 This project is a Whatsapp clone built using ReactJS, Firebase, react-router-dom, MUI.
